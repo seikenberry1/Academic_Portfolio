@@ -22,7 +22,7 @@ repository               : "seikenberry1/Academic_Portfolio"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Steffen is Indeed My Sidebar Name"
+  name             : "Steffen is My Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
